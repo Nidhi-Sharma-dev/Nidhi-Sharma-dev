@@ -4,6 +4,8 @@
 🚀 Exploring RAG, Multi-Agent Systems & Product Thinking  
 
 - 📫 How to reach me: sharmanidhi2704@gmail.com
+  ## Tech Stack
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c++,c,python,ts,react,vite,aws,firebase,bootstrap,jwt,npm,nodejs,tensorflow)](https://skillicons.dev)
 
 
 
