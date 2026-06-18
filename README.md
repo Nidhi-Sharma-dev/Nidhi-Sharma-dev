@@ -1,4 +1,4 @@
-## Building intelligent software at the intersection of AI, backend engineering, and product innovation.
+## Building intelligent software at the intersection of AI and product innovation.
 🤖 GenAI & Backend Developer  
 💻 Building AI-powered products with Java, Python, Node.js & LLMs  
 🚀 Exploring RAG, Multi-Agent Systems & Product Thinking  
